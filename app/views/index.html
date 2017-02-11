@@ -4,24 +4,56 @@
   {% include "includes/head.html" %}
 {% endblock %}
 
-{% block navbar %}
-{% endblock %}
-
-{% block copyright %}
-{% endblock %}
-
 {% block page_title %}
   GOV.UK prototype kit
 {% endblock %}
 
 {% block main_column %}
 
-	<h1>Whitehall topics prototype</h1>
+<div class="search-group">
 
-	<ul>
-		<li>
-			<p><a href="/publication">New publication</a></p>
-		</li>
-	</ul>
+  <header class="heading">
+    <h1>Tag page</h1>
+  </header>
+
+  <div class="lead">
+    Search for any page on GOV.UK to change topics and other tags.
+  </div>
+
+  <form novalidate="novalidate" class="simple_form new_content_lookup_form" id="new_content_lookup_form" action="/edit-page" accept-charset="UTF-8" method="get">
+    <div class="form-group string optional content_lookup_form_base_path">
+      <div>
+        <input class="string optional form-control" type="text" name="content_lookup_form[base_path]" id="content_lookup_form_base_path">
+      </div>
+    </div>
+    <input type="submit" name="commit" value="Search" class="btn btn-success btn-md">
+  </form>
+
+</div>
+
+<div class="search-group">
+
+  <header class="heading">
+    <h1>Tag multiple pages</h1>
+  </header>
+
+  <div class="lead">
+    Search for a topic or other tag to edit multiple pages at once.
+  </div>
+
+  <form novalidate="novalidate" class="simple_form new_content_lookup_form" id="new_content_lookup_form" action="/multiple-search" accept-charset="UTF-8" method="get">
+    <div class="form-group string optional content_lookup_form_base_path">
+      <div>
+        <input class="string optional form-control" type="text" name="content_lookup_form[base_path]" id="content_lookup_form_base_path">
+      </div>
+    </div>
+    <input type="submit" name="commit" value="Search" class="btn btn-success btn-md">
+  </form>
+
+</div>
+
+{% endblock %}
+
+{% block side_bar %}
 
 {% endblock %}

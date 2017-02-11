@@ -1,0 +1,79 @@
+{% extends "layout_two_column.html" %}
+
+{% block head %}
+  {% include "includes/head.html" %}
+{% endblock %}
+
+{% block page_title %}
+  GOV.UK prototype kit
+{% endblock %}
+
+{% block main_column %}
+
+  <header class="heading">
+    <h2>Edit taxonomy</h2>
+  </header>
+
+
+    <p class="lead">
+      Select a topic to edit, or to add child topics.
+    </p>
+
+    <div class="topic-tree">
+
+        <h4>
+            Education, training and skills
+        </h4>
+
+        {% for topic1, children in topics %}
+
+      <p>
+        <a href="/edit-topic/{{topic1}}">{{topic1}}</a>
+      </p>
+
+      <div class="topics">
+
+      {% for topic2, children in children %}
+
+        <p>
+          <a href="/edit-topic/{{topic2}}">{{topic2}}</a>
+        </p>
+
+        <div class="topics">
+
+        {% for topic3, children in children %}
+
+          <p>
+            <a href="/edit-topic/{{topic3}}">{{topic3}}</a>
+          </p>
+
+          <div class="topics">
+
+          {% for topic4, children in children %}
+
+            <p>
+              <a href="/edit-topic/{{topic4}}">{{topic4}}</a>
+            </p>
+
+          {% endfor %}
+
+          </div>
+
+        {% endfor %}
+
+        </div>
+
+      {% endfor %}
+
+      </div>
+
+    {% endfor %}
+
+    </div>
+
+
+{% endblock %}
+
+{% block side_bar %}
+
+{% endblock %}

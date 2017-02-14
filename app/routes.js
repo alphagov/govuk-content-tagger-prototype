@@ -118,7 +118,7 @@ router.get('/edit-taxonomy', function(req,res){
     displaySelected.push("No topics selected")
   }
 
-  res.render('edit-taxonomy',{topics: topics, checked: checked, displaySelected: displaySelected});
+  res.render('edit-taxonomy',{Math: Math, topics: topics, checked: checked, displaySelected: displaySelected});
 
 });
 

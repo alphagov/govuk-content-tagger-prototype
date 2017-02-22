@@ -1,181 +1,596 @@
-{
-  "Education, training and skills": {
-    "Alternatives to school": {
-      "Alternative provision and pupil referral units": {},
-      "Home schooling": {}
-    },
-    "Education of disadvantaged children": {},
-    "Funding and finance for students": {
-      "Financial help for international students in the UK": {},
-      "Financial help for students who are parents or carers": {},
-      "Student loans and sponsorship": {}
-    },
-    "Further and higher education, skills and vocational training": {
-      "Adult and community learning": {},
-      "Apprenticeships, traineeships and internships": {
-        "Being an apprentice": {},
-        "Employers and training organisations": {},
-        "Internships": {},
-        "Traineeships": {},
-        "Types of apprenticeships": {}
+[
+  {
+    "title": "School curriculum",
+    "contentId": "7c75c541-403f-4cb1-9b34-4ddde816a80d",
+    "children": [
+      {
+        "title": "Primary curriculum, key stage 1",
+        "contentId": "904cfd73-2707-47b8-8754-5765ec5a5b68",
+        "children": [
+          {
+            "title": "Tests",
+            "contentId": "07fdd985-f3ec-4f4e-a316-3f4fd491bd64"
+          },
+          {
+            "title": "Phonics",
+            "contentId": "0d76003d-76ba-4af5-a19e-31ab3f8ba689"
+          },
+          {
+            "title": "Assessments",
+            "contentId": "1ddd7a85-6c64-4b1e-9e54-55b50a0ae3f3"
+          },
+          {
+            "title": "Science",
+            "contentId": "8a2141ae-2493-491c-8e5f-2bd23c1a6afe"
+          },
+          {
+            "title": "Maths",
+            "contentId": "9104dfd2-4da9-4309-98dc-dc54f7d8d2db"
+          },
+          {
+            "title": "English",
+            "contentId": "dc1d6a10-7f7b-464c-bd1f-3bdb66d096d0"
+          },
+          {
+            "title": "Programmes of study",
+            "contentId": "b0fcf462-e6b9-44e1-9145-48f66d53c81f"
+          }
+        ]
       },
-      "Careers guidance in further and higher education": {},
-      "Education in prisons": {},
-      "Funding and finance for further or higher education providers": {},
-      "Further and higher education courses and qualifications": {},
-      "Inspection and performance of further education providers": {
-        "Inspection of further education and skills providers": {},
-        "Inspection of residential provision in further education colleges": {},
-        "Ofsted inspection reports and ratings": {}
+      {
+        "title": "Exam regulation and administration",
+        "contentId": "258c6e6d-4e4e-42f1-a554-30b22f2aebab"
       },
-      "Learning Records Service (LRS)": {},
-      "Running a further or higher education institution": {}
-    },
-    "Pupil wellbeing, behaviour and attendance": {
-      "Health and safety in schools": {},
-      "Safeguarding pupils": {},
-      "School attendance and absence": {},
-      "School bullying": {},
-      "School discipline and exclusions": {}
-    },
-    "Pupils and students with special educational needs and disability (SEND)": {
-      "Funding for special educational needs and disability (SEND)": {},
-      "Special educational needs and disability (SEND) code of practice": {},
-      "Special educational needs and disability (SEND) support in schools": {}
-    },
-    "Running and managing a school": {
-      "Careers guidance in schools": {},
-      "Funding and finance for schools and academies": {
-        "Academy financial management and reporting": {},
-        "Academy funding and compliance": {},
-        "Funding for 16 to 19 year olds": {},
-        "Maintained school and local authority funding": {},
-        "Procurement for schools": {},
-        "Pupil Premium": {},
-        "School insurance and risk management": {},
-        "Schools forums": {}
+      {
+        "title": "Secondary curriculum, key stage 3 and key stage 4 (GCSEs)",
+        "contentId": "a28530a2-b0a3-46f9-89b9-3d98fc18e39d",
+        "children": [
+          {
+            "title": "GCSE changes and reforms",
+            "contentId": "cf1a5c02-ed35-48f3-9e17-c702cc23ea92"
+          },
+          {
+            "title": "Key stage 3 and 4 exam marking, qualifications and results",
+            "contentId": "af89d06d-db1c-4a37-a8df-63d1e308c183"
+          },
+          {
+            "title": "GCSE subject content and requirements",
+            "contentId": "e8f17408-2d81-468f-aad8-7486a05cd0bf"
+          }
+        ]
       },
-      "Managing school data": {},
-      "Recruiting and managing school staff": {},
-      "School admissions": {},
-      "School buildings and premises": {},
-      "School complaints and whistleblowing": {},
-      "School governance": {},
-      "School meals, transport and uniform": {},
-      "Setting up or changing the status of a school": {}
-    },
-    "School curriculum": {
-      "Early years curriculum": {},
-      "Key stage 5 (AS and A Levels)": {},
-      "Personal, social, health and economic education": {},
-      "Primary curriculum, key stage 1": {
-        "Assessments (key stage 1)": {},
-        "English  (key stage 1)": {},
-        "Maths (key stage 1)": {},
-        "Phonics": {},
-        "Programmes of study  (key stage 1)": {},
-        "Science (key stage 1)": {},
-        "Tests (key stage 1)": {}
+      {
+        "title": "Spiritual, moral, social and cultural development",
+        "contentId": "ccadca16-a0e8-4ae2-adb0-990d93ff3445"
       },
-      "Primary curriculum, key stage 2": {
-        "Assessments  (key stage 2)": {},
-        "English  (key stage 2)": {},
-        "Maths (key stage 2)": {},
-        "Programmes of study (key stage 2)": {},
-        "Science (key stage 2)": {},
-        "Tests (key stage 2)": {}
+      {
+        "title": "Key stage 5 (AS and A Levels)",
+        "contentId": "c1b4353c-c05f-494c-8f94-10f7c6959287",
+        "children": [
+          {
+            "title": "AS and A level subject content and requirements",
+            "contentId": "197ae5ae-7922-4dba-9104-2b0d78ec472e"
+          },
+          {
+            "title": "Key stage 5 exam marking, qualifications and results",
+            "contentId": "09e40fac-beaa-4ca9-b84e-db3bbf2c9536"
+          },
+          {
+            "title": "AS and A level changes and reforms",
+            "contentId": "7d04af85-f92c-45d5-9472-d2d290f49513"
+          }
+        ]
       },
-      "Secondary curriculum, key stage 3 and key stage 4 (GCSEs)": {
-        "GCSE changes and reforms": {},
-        "GCSE subject content and requirements": {},
-        "Key stage 3 and 4 exam marking, qualifications and results": {}
+      {
+        "title": "Personal, social, health and economic education",
+        "contentId": "17342ebc-04f8-434b-bcd6-be533238d02d"
       },
-      "Spiritual, moral, social and cultural development": {}
-    },
-    "School inspections and performance": {
-      "Inspection of British schools overseas": {},
-      "Inspection of independent schools": {},
-      "Inspection of maintained schools and academies": {},
-      "Ofsted inspection reports and ratings": {},
-      "inspection of boarding and residential schools": {}
-    },
-    "Support for education work in other countries": {},
-    "Teaching and leadership": {
-      "Teacher pay, pensions and conditions": {},
-      "Teacher records": {},
-      "Teacher training and professional development": {
-        "Initial Teacher Training (ITT)": {},
-        "National Professional Qualification for Headship (NPQH)": {},
-        "Qualified Teacher Status (QTS)": {},
-        "School leadership": {},
-        "Subject Knowledge Enhancement (SKE)": {}
+      {
+        "title": "Primary curriculum, key stage 2",
+        "contentId": "931dc3bb-827b-4490-8013-111689b25142",
+        "children": [
+          {
+            "title": "Maths",
+            "contentId": "6fe00099-9771-4889-8638-c7f4247a168c"
+          },
+          {
+            "title": "English",
+            "contentId": "35d3e1b5-5777-4cbb-b4c7-0a20f9d6d7e2"
+          },
+          {
+            "title": "Assessments",
+            "contentId": "bf9ba557-b3d8-4c4e-8e39-0d09466808b4"
+          },
+          {
+            "title": "Tests",
+            "contentId": "5b9555f5-ab27-43ec-9204-c9bf939113ec"
+          },
+          {
+            "title": "Science",
+            "contentId": "f5babf0a-9e91-4a70-97fb-7e4ffaee33a0"
+          },
+          {
+            "title": "Programmes of study",
+            "contentId": "fed09305-c819-4139-8b05-4b5375a1a582"
+          }
+        ]
       },
-      "Teaching standards, conduct and practice": {}
-    }
-  },
-  "Parenting, childcare and children's services": {
-    "Adoption, fostering and surrogacy": {
-      "Adoption": {
-        "Adopting a child": {},
-        "Adoption agencies": {},
-        "Intercountry adoption": {}
-      },
-      "Fostering": {
-        "Fostering a child": {},
-        "Fostering services": {}
-      },
-      "Special guardianship": {},
-      "Surrogacy": {}
-    },
-    "Childcare": {
-      "Childcare for children with special needs, disabilities or disadvantages": {},
-      "Finding and paying for childcare": {},
-      "Running a childcare business": {
-        "Admissions and census data for childcare providers": {},
-        "Childminding": {},
-        "Children's centres": {},
-        "Early years curriculum (0 to 5)": {},
-        "Funding and finance for childcare providers": {},
-        "Performance and inspection of childcare providers": {},
-        "Pre-schools and nurseries": {},
-        "Recruiting and managing early years staff": {},
-        "Training and professional development for childcare providers": {}
+      {
+        "title": "Early years curriculum",
+        "contentId": "07299ca5-bc4d-48dd-a3f1-edd3b170bb4a"
       }
-    },
-    "Children's health and welfare": {
-      "Child poverty": {},
-      "Children's rights": {},
-      "Help for children with a long-term illness or disability": {},
-      "Mental health of children and young people": {},
-      "Young carers": {}
-    },
-    "Divorce, separation and legal issues": {},
-    "Financial help if you have children": {},
-    "Looked-after children and children in care": {
-      "Child and family social workers": {},
-      "Children and young people leaving care": {},
-      "Children's homes and other accommodation": {},
-      "Children's social care providers": {
-        "Becoming a children's social care provider": {},
-        "Complaints": {},
-        "Inspection of children's social care providers": {}
+    ]
+  },
+  {
+    "title": "Running and managing a school",
+    "contentId": "42e6e5c3-3a06-4a6f-abd4-a4b85d9c6b16",
+    "children": [
+      {
+        "title": "Careers guidance in schools",
+        "contentId": "72aed311-e76e-4b4e-88db-e14d8bedbee1"
       },
-      "Refugee, runaway and homeless children": {}
-    },
-    "Pregnancy and birth": {},
-    "Safeguarding and child protection": {
-      "Child abduction and cross-border child protection": {},
-      "Online safety": {},
-      "Preventing neglect, abuse and exploitation": {},
-      "Safeguarding inspection": {},
-      "Serious case reviews": {}
-    },
-    "Schooling and education choices": {
-      "Dealing with problems at school": {},
-      "Financial help for post 16 education": {},
-      "Help with school costs": {},
-      "Home schooling": {},
-      "Sending a child to school": {}
-    }
+      {
+        "title": "School food, accommodation, transport and uniform",
+        "contentId": "ef3248d2-2145-4f87-b99a-589433c9b101"
+      },
+      {
+        "title": "Setting up or changing the status of a school",
+        "contentId": "1227db39-e321-4439-a514-10e4d1d0e61d"
+      },
+      {
+        "title": "School planning",
+        "contentId": "ba7a0379-3dc8-4ee9-acb5-ace8e6dd42b9"
+      },
+      {
+        "title": "School to school support",
+        "contentId": "09a7fc9f-c9d8-45fe-8066-1bf7a6dd4a22"
+      },
+      {
+        "title": "School trips and extracurricular activity",
+        "contentId": "d2158a98-5f85-4672-ab5e-2ff232a657b4"
+      },
+      {
+        "title": "School admissions",
+        "contentId": "cb910f96-f842-4cfc-9e20-d99683504529"
+      },
+      {
+        "title": "School governance",
+        "contentId": "98636b54-c677-415d-b2b2-255307ea11b8"
+      },
+      {
+        "title": "Recruiting and managing non-teaching school staff",
+        "contentId": "1b3b139c-76fe-4bd4-89de-e6dcda134abd"
+      },
+      {
+        "title": "School complaints and whistleblowing",
+        "contentId": "73a9f875-3715-4661-a643-a7275de80ac8"
+      },
+      {
+        "title": "Data collection for pupil data and school censuses",
+        "contentId": "c2f971d6-e0b4-4b00-87a4-074d6c96b2c9"
+      },
+      {
+        "title": "School buildings and land",
+        "contentId": "059e1b97-c18b-4043-94a5-59004df8282d",
+        "children": [
+          {
+            "title": "School buildings and land transactions",
+            "contentId": "44bd4859-8bd7-4cae-b89d-a60b3444dc7c"
+          },
+          {
+            "title": "School buildings and land guidelines",
+            "contentId": "6f204e9a-a634-4942-8486-ecc841388f5c"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Further and higher education, skills and vocational training",
+    "contentId": "dd767840-363e-43ad-8835-c9ab516633de",
+    "children": [
+      {
+        "title": "Inspection and performance of further education providers",
+        "contentId": "2dc353bf-d481-4c81-9f8f-25e1d4bc5da9",
+        "children": [
+          {
+            "title": "Inspection of further education and skills providers",
+            "contentId": "27e57b63-4252-4c49-b103-e73f7c6ed394"
+          },
+          {
+            "title": "Inspection of residential provision in further education colleges",
+            "contentId": "e43c90fb-e2d1-4c35-9a82-955b3f695047"
+          },
+          {
+            "title": "Further education intervention notices and reports",
+            "contentId": "fe6904d9-2190-48c9-a89a-7976803674b0"
+          },
+          {
+            "title": "Student performance in further education",
+            "contentId": "86aaefa2-52db-4d8d-911d-5fff034ed035"
+          },
+          {
+            "title": "Further education provider performance measures",
+            "contentId": "e2b37c87-3af0-45d7-8a39-6f15fa70408b"
+          },
+          {
+            "title": "Performance data and Ofsted reports of further education providers",
+            "contentId": "bdb7a7e0-c307-4514-a271-d7f76ee8364d"
+          }
+        ]
+      },
+      {
+        "title": "Running a further or higher education institution",
+        "contentId": "27c5c52b-3b36-4119-b461-976197d929bf"
+      },
+      {
+        "title": "Further and higher education courses and qualifications",
+        "contentId": "58bebb74-fae7-4c97-878b-61ff543d9d12"
+      },
+      {
+        "title": "Further education financial management and data collection",
+        "contentId": "9206c81a-ab48-4325-b309-1a4e7471bd7e",
+        "children": [
+          {
+            "title": "Data collection for further education providers",
+            "contentId": "f58ba5d0-5b45-43e4-a374-c2b8b3513b1f"
+          },
+          {
+            "title": "Financial management for further education providers",
+            "contentId": "d5e38302-6bb2-4b49-a99e-1ffab30e1e1e"
+          },
+          {
+            "title": "Local authority further education financial reporting and assurance",
+            "contentId": "538c61de-1de6-4fc3-8e72-a06de44e1b04"
+          }
+        ]
+      },
+      {
+        "title": "Adult and community learning",
+        "contentId": "e6017952-1324-4e3c-98d4-226ac0492a03"
+      },
+      {
+        "title": "Careers guidance in further and higher education",
+        "contentId": "5b021981-2999-4da1-9a4e-03c64b70168c"
+      },
+      {
+        "title": "Education in prisons",
+        "contentId": "6426d1c5-93c8-4659-85d5-1f0d3368a124"
+      },
+      {
+        "title": "Apprenticeships, traineeships and internships",
+        "contentId": "aaeb7f58-d410-4c42-8775-05b0bdeceeea",
+        "children": [
+          {
+            "title": "Apprenticeship skills and standards",
+            "contentId": "df9db20b-b799-4ef5-916c-6d8b9f9a00f4"
+          },
+          {
+            "title": "Employers and training organisations",
+            "contentId": "56b78356-c7bf-4460-8775-d04b590ec7ca"
+          },
+          {
+            "title": "Traineeships",
+            "contentId": "41ae5900-f8e5-4840-b58f-734631029fd6"
+          },
+          {
+            "title": "Internships",
+            "contentId": "84eb37d2-d5fd-4fa8-adda-1ec29a26da52"
+          },
+          {
+            "title": "Being an apprentice",
+            "contentId": "ff0e8e1f-4dea-42ff-b1d5-f1ae37807af2"
+          },
+          {
+            "title": "Types of apprenticeships",
+            "contentId": "31024c7d-70a3-4d5b-bf53-a375cdab3b63"
+          }
+        ]
+      },
+      {
+        "title": "Learning Records Service (LRS)",
+        "contentId": "4842335f-2e17-4aa7-ade8-a9f7ca21072d"
+      },
+      {
+        "title": "Further education funding",
+        "contentId": "27af9b0f-9ddf-47e2-9103-2f6f72d9ddf7",
+        "children": [
+          {
+            "title": "Further education building and premises",
+            "contentId": "98d9143e-174f-4a72-9a9d-5c8eef101cb6"
+          },
+          {
+            "title": "Dance and drama funding for 16 to 19 year olds",
+            "contentId": "e324abdb-7100-49f7-bc22-0eba2ba1e890"
+          },
+          {
+            "title": "European Social Fund (ESF) and skills funding",
+            "contentId": "9bb10f38-3fab-4c12-9b53-c8674e64a67f"
+          },
+          {
+            "title": "Free meals for 16 to 18 year olds",
+            "contentId": "e69dc613-58af-47aa-8d8e-79708fbfe677"
+          },
+          {
+            "title": "Further education funding data",
+            "contentId": "66cc145f-9dfd-47db-bb98-457a61668d14"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Support for education work in other countries",
+    "contentId": "4059eb90-c85a-4eb0-8307-514daf5c4ef0"
+  },
+  {
+    "title": "Pupil wellbeing, behaviour and attendance",
+    "contentId": "db605204-0f03-441b-837f-16613c6b3f8f",
+    "children": [
+      {
+        "title": "Pupil mental health and wellbeing",
+        "contentId": "65938835-a0e4-4deb-97a9-e0921818996d"
+      },
+      {
+        "title": "Health and safety in schools",
+        "contentId": "394b93e1-eeb7-421d-91e1-c478cc3d635e"
+      },
+      {
+        "title": "School discipline and exclusions",
+        "contentId": "f08c20eb-2c28-41d9-96ef-1678425836cd"
+      },
+      {
+        "title": "School attendance and absence",
+        "contentId": "17fb491a-15f3-4c71-8e25-f645ff8b3ed3"
+      },
+      {
+        "title": "Alternative provision and pupil referral units",
+        "contentId": "b422afa3-8349-4bb8-a36a-81d63a19507e"
+      },
+      {
+        "title": "School bullying",
+        "contentId": "b376d700-3928-4540-b216-683dd39fb75c"
+      },
+      {
+        "title": "Safeguarding pupils",
+        "contentId": "b67afac3-0bfc-4e44-9893-951be4d05e4c"
+      }
+    ]
+  },
+  {
+    "title": "School inspections and performance",
+    "contentId": "940e7a57-171a-4dad-b6eb-e2a5a87c9cec",
+    "children": [
+      {
+        "title": "Inspection of local authority support for schools",
+        "contentId": "3cec0ac5-8a19-42b9-9468-fe5e384b3662"
+      },
+      {
+        "title": "Inspection of maintained schools and academies",
+        "contentId": "40334e3b-8ce3-48d3-96bc-fec16b43da39"
+      },
+      {
+        "title": "School performance measures",
+        "contentId": "dbb52b1a-55ba-498c-9097-80787ee74e24"
+      },
+      {
+        "title": "Inspection of independent schools",
+        "contentId": "6690703b-ce48-4108-b5f0-75807ff3202e"
+      },
+      {
+        "title": "Inspection of boarding and residential schools",
+        "contentId": "03c31099-1b0d-41ec-834d-2460a7e2992b"
+      },
+      {
+        "title": "Pupil performance in schools",
+        "contentId": "ada85ef4-a2b5-446d-a8cf-92da2573b86f"
+      },
+      {
+        "title": "School performance tables and Ofsted reports",
+        "contentId": "49322f0a-04e1-4d08-9e18-e096cfa3301c"
+      },
+      {
+        "title": "Academy intervention notices and reports",
+        "contentId": "146758aa-55d1-4cef-935d-3ce41a128bbd"
+      },
+      {
+        "title": "Inspection of non-maintained schools",
+        "contentId": "c6da0a94-6a82-47c3-97bb-308efda37312"
+      },
+      {
+        "title": "Inspection of British schools overseas",
+        "contentId": "690ac909-3bb5-44c6-8374-0e76dc00a15b"
+      }
+    ]
+  },
+  {
+    "title": "Education and funding for high needs, special educational needs and disability (SEND)",
+    "contentId": "47b6ce42-0bfa-42ee-9ff1-7a9c71ee9727",
+    "children": [
+      {
+        "title": "Special educational needs and disability (SEND) code of practice",
+        "contentId": "fb7262b7-381d-4b24-8b0d-740b6ac42f12"
+      },
+      {
+        "title": "Funding for special educational needs and disability (SEND)",
+        "contentId": "e16b62e0-9c54-4547-b8c0-7589d8af3906"
+      },
+      {
+        "title": "High needs funding",
+        "contentId": "78cfdb08-0629-42d9-80eb-edbf9b36e0c3"
+      },
+      {
+        "title": "Special educational needs and disability (SEND) support in education",
+        "contentId": "0f92387b-f477-4592-85e6-0742f3fcf696"
+      }
+    ]
+  },
+  {
+    "title": "School and academy funding and provision",
+    "contentId": "90e8a226-8d40-4c1f-91e4-36a712b34e57",
+    "children": [
+      {
+        "title": "Local authority schools funding",
+        "contentId": "738e53f4-97df-4d9e-a2f1-8f733d526d84"
+      },
+      {
+        "title": "Pupil premium and other school premiums ",
+        "contentId": "714bc7d1-afb0-4e10-9558-268da5dbbbba"
+      },
+      {
+        "title": "Funding for different types of schools and settings",
+        "contentId": "c657bea7-3b82-4103-9d7c-8d9725f87ede",
+        "children": [
+          {
+            "title": "Alternative provision funding",
+            "contentId": "1f5a3ff2-9363-4421-82f4-fa08efc9586b"
+          },
+          {
+            "title": "Faith schools funding",
+            "contentId": "269d8d2b-5bb8-4192-a452-372c49a24829"
+          },
+          {
+            "title": "Special schools funding",
+            "contentId": "ee2b56e7-7cbe-4e8b-8797-1961240e7c80"
+          },
+          {
+            "title": "Academy funding",
+            "contentId": "acd7834d-1a21-4ea7-a208-bec78ec941d8"
+          },
+          {
+            "title": "Early years funding",
+            "contentId": "b82fdbdb-275e-4d84-b17a-390061b6c309"
+          },
+          {
+            "title": "Funding for 16 to 19 year olds in schools",
+            "contentId": "5a345486-f6ab-43a6-bced-52a7301f7273"
+          }
+        ]
+      },
+      {
+        "title": "Schools forums",
+        "contentId": "57c6ba08-a31a-4a7a-9cd6-3d571e91f1ab"
+      },
+      {
+        "title": "Funding for school buildings and land",
+        "contentId": "dd1e5961-65c9-495b-b5e9-06035a1bc9e6"
+      },
+      {
+        "title": "Initial Teacher Training funding",
+        "contentId": "f81590ba-856a-4c81-9380-8bb2804120c1"
+      },
+      {
+        "title": "School places and capacity",
+        "contentId": "64d18c5f-9038-4b90-a10f-30e3c94f5657"
+      },
+      {
+        "title": "School Direct funding",
+        "contentId": "ee6d175d-e7af-417a-9f42-d2c69df9698f"
+      },
+      {
+        "title": "Free school meals (FSM) funding ",
+        "contentId": "26b71ec6-c395-4e24-b456-9490cb38d74b"
+      }
+    ]
+  },
+  {
+    "title": "Teaching and leadership",
+    "contentId": "ff00b8b2-dcdb-4659-93c2-291c9be354f3",
+    "children": [
+      {
+        "title": "Teacher training and professional development",
+        "contentId": "25bc1af0-33df-40be-a668-d9b05d1dd3e4",
+        "children": [
+          {
+            "title": "Initial Teacher Training (ITT)",
+            "contentId": "ca3c2e22-9ba0-4163-b4a6-7dbf355b9846"
+          },
+          {
+            "title": "Teacher training providers",
+            "contentId": "9ecb4547-b2ff-446f-b583-7dcf6622796d"
+          },
+          {
+            "title": "School leadership",
+            "contentId": "c58fc0b0-50bd-4a5d-9e41-64230e191032"
+          },
+          {
+            "title": "National Professional Qualification for Headship (NPQH)",
+            "contentId": "92f1b633-9032-4f7e-ac59-37a876a69255"
+          },
+          {
+            "title": "Qualified Teacher Status (QTS)",
+            "contentId": "4d18c236-0124-4083-b39d-8da5226fa5c9"
+          },
+          {
+            "title": "Subject Knowledge Enhancement (SKE)",
+            "contentId": "f421b9c8-bc31-43d5-b443-6148731a10fd"
+          }
+        ]
+      },
+      {
+        "title": "Recruiting and managing teachers",
+        "contentId": "73c19fc1-d7ee-4d6c-b06e-446711ed9240"
+      },
+      {
+        "title": "Teacher pay, pensions and conditions",
+        "contentId": "651b2ef7-d5fb-4ebb-b6a9-521b3b766b01"
+      },
+      {
+        "title": "Teacher records",
+        "contentId": "59ceb6a5-8cb3-4671-bee2-9b392e916298"
+      },
+      {
+        "title": "Teaching standards, misconduct and practice",
+        "contentId": "720f650a-331f-4575-9c56-376d1eaa9ca0"
+      }
+    ]
+  },
+  {
+    "title": "Funding and finance for students",
+    "contentId": "23265b25-7ec3-4960-8517-4ff8d4d92cac",
+    "children": [
+      {
+        "title": "Financial help for students who are parents or carers",
+        "contentId": "1255e19a-f02d-485f-8d5f-000688312bd9"
+      },
+      {
+        "title": "Student loans, bursaries, and sponsorship",
+        "contentId": "5c9372ef-8cac-4c41-b95b-6117ea052b78"
+      },
+      {
+        "title": "Financial help for international students in the UK",
+        "contentId": "4df47fe9-4487-4889-9eaa-d3bdc59483fd"
+      }
+    ]
+  },
+  {
+    "title": "School and academy financial management and assurance",
+    "contentId": "1a26ae19-00f2-4be1-b9b6-aa72876a0278",
+    "children": [
+      {
+        "title": "Financial management, reporting and assurances for 16 to 19 year olds funding",
+        "contentId": "d77fe1b6-b609-4498-a321-94a41857019a"
+      },
+      {
+        "title": "Academy and academy trust finance and reporting",
+        "contentId": "6d3201e7-5222-4510-b952-706cbde0721c"
+      },
+      {
+        "title": "School procurement",
+        "contentId": "e3cb8b57-6331-419a-b344-7a8148d561cb"
+      },
+      {
+        "title": "Local authority schools financial reporting and assurance",
+        "contentId": "bcb4bdf3-5807-4421-a427-7dfe78d5f6d5"
+      },
+      {
+        "title": "School insurance and risk management",
+        "contentId": "38955795-335d-489f-83e3-3f4e935938d3"
+      }
+    ]
+  },
+  {
+    "title": "Education of disadvantaged children",
+    "contentId": "d2005b89-352f-4896-aced-1d17504330e6"
   }
-}
+]

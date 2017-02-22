@@ -51,7 +51,7 @@ router.get('/edit-taxonomy', function(req,res){
 
   //console.log(selected)
 
-  var topics = require('./data/taxonomy.json')['Education, training and skills']
+  var topics = require('./data/taxonomy.json')
 
   var checked = function checked(topic){
     //console.log(topic);
@@ -121,6 +121,13 @@ router.get('/edit-taxonomy', function(req,res){
   res.render('edit-taxonomy',{Math: Math, topics: topics, checked: checked, displaySelected: displaySelected});
 
 });
+
+
+router.get('/edit-topic/:topicSlug', function(req,res){
+
+  res.render('topic')
+
+})
 
 
 module.exports = router;

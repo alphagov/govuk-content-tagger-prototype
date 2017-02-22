@@ -31,37 +31,37 @@
             Education, training and skills
         </h4>
 
-        {% for topic1, children in topics %}
+        {% for topic1 in topics %}
 
       <p>
-        <a href="/edit-topic/{{topic1}}">{{topic1}}</a>
+        <a href="/edit-topic/{{topic1.title}}">{{topic1.title}}</a>
         <span class="number">{{Math.round(Math.random()*2000)+1000}}</span>
       </p>
 
       <div class="topics">
 
-      {% for topic2, children in children %}
+      {% for topic2 in topic1.children %}
 
         <p>
-          <a href="/edit-topic/{{topic2}}">{{topic2}}</a>
+          <a href="/edit-topic/{{topic2.title}}">{{topic2.title}}</a>
           <span class="number">{{Math.round(Math.random()*500)+500}}</span>
         </p>
 
         <div class="topics">
 
-        {% for topic3, children in children %}
+        {% for topic3 in topic2.children %}
 
           <p>
-            <a href="/edit-topic/{{topic3}}">{{topic3}}</a>
+            <a href="/edit-topic/{{topic3.title}}">{{topic3.title}}</a>
             <span class="number">{{Math.round(Math.random()*250)}}</span>
           </p>
 
           <div class="topics">
 
-          {% for topic4, children in children %}
+          {% for topic4 in topic3.children %}
 
             <p>
-              <a href="/edit-topic/{{topic4}}">{{topic4}}</a>
+              <a href="/edit-topic/{{topic4.title}}">{{topic4.title}}</a>
               <span class="number">{{Math.round(Math.random()*250)}}</span>
             </p>
 
